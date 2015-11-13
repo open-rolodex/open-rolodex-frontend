@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 # Open-rolodex-frontend
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
+
+## Status
+
+![CircleCI](https://circleci.com/gh/:open-rolodex/:open-rolodex-frontend.svg?style=shield&circle-token=:circle-token)
 
 ## Prerequisites
 
@@ -51,3 +56,6 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# open-rolodex-frontend
+>>>>>>> 27d9f32... Create README
